@@ -1,5 +1,4 @@
 # Esta es mi Pagina web Mike Pro  
-**Profe Luis Rey lo amo n**
 
 ![Anime](https://static.vecteezy.com/system/resources/thumbnails/023/717/957/small/serious-girl-with-dark-hair-hugging-a-black-cat-in-anime-style-generated-ai-photo.jpg)
 
