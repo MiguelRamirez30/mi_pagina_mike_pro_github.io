@@ -1,7 +1,7 @@
 # Presentación Profesional 🎓
 
-![Texto alternativo](URL de la imagen)
 
+![Texto alternativo]()
 ## Miguel Ramírez Leonardo
 
 ### Información Personal 🧑‍🎓
