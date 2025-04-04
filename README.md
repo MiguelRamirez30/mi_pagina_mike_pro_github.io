@@ -1,7 +1,7 @@
 # Presentación Profesional 🎓
 
 
-![Texto alternativo](subir/mi foto.jpg)
+![Texto alternativo](https://github.com/MiguelRamirez30/mi_pagina_mike_pro_github.io/blob/e59126636f4ce09fc676de8735efe68a428a67bd/subir/mi%20foto.jpg)
 ## Miguel Ramírez Leonardo
 
 ### Información Personal 🧑‍🎓
