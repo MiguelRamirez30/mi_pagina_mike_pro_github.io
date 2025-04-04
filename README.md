@@ -8,22 +8,23 @@
 - **Ciclo Escolar:** 5to Cuatrimestre
 
 ### Formación Académica 📚
-- **Carrera:** [Nombre de la carrera] (por favor, completa con el nombre de la carrera que estudia)
-- **Año de ingreso:** [Año de ingreso] (por favor, completa con el año en que ingresó a la universidad)
+- **Carrera:** [IRT] (Ingenieria en Redes y Telecomunicaciones )
+- **Año de ingreso:** [2023] 
 
 ### Habilidades 💻
-- **Programación:** [Lenguajes de programación que maneja]
-- **Herramientas:** [Herramientas o software que utiliza]
-- **Idiomas:** [Idiomas que habla]
+- **Programación:** [poo java ]
+- **Herramientas:** [linux]
+- **Idiomas:** [ingles]
 
 ### Proyectos Destacados 🚀
-1. **[Nombre del Proyecto 1]**
-   - Descripción: [Breve descripción del proyecto]
-   - Rol: [Tu rol en el proyecto]
+1. **[Control de Acceso RFDI]**
+   - Descripción: [Esp32 conectada a una pagina web
+   - y una base de datos]
+   - Rol: [Programacion Esp32]
 
 ### Contacto 📞
-- **Correo Electrónico:** [tuemail@ejemplo.com]
-- **Teléfono:** [Tu número de teléfono]
+- **Correo Electrónico:** [323030249@upjr.edu.mx]
+- **Teléfono:** [4121421999]
 
 ---
 
