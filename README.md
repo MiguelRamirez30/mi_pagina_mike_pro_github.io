@@ -24,7 +24,7 @@
    - y una base de datos]
    - Rol: [Programacion Esp32]
 
-[Mi Proyecto integrado](https://miguelramirez30.github.io/Proyecto-Integrador-github.io/)
+[Mi Proyecto integrador](https://miguelramirez30.github.io/Proyecto-Integrador-github.io/)
 
 
 
